@@ -1,1 +1,1 @@
-# StudyingCard
+(https://joaoavr.github.io/StudyingCard/)
